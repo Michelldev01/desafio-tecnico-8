@@ -1,4 +1,4 @@
-# Desafio de Implementação POO em Java com Git e GitHub
+# Desafio Técnico: Git e GitHub
 
 Bem-vindo ao nosso desafio técnico! O objetivo deste exercício é avaliar suas habilidades em Programação Orientada a Objetos (POO) em Java, implementando uma classe com base em um modelo pré-definido.
 
